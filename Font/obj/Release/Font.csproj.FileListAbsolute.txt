@@ -1,0 +1,9 @@
+I:\2TSSIOD\Stage\Font\Font\bin\Release\FontXpress.exe.config
+I:\2TSSIOD\Stage\Font\Font\bin\Release\FontXpress.exe
+I:\2TSSIOD\Stage\Font\Font\bin\Release\FontXpress.pdb
+I:\2TSSIOD\Stage\Font\Font\obj\Release\Font.csprojResolveAssemblyReference.cache
+I:\2TSSIOD\Stage\Font\Font\obj\Release\Font.FormFont.resources
+I:\2TSSIOD\Stage\Font\Font\obj\Release\Font.Properties.Resources.resources
+I:\2TSSIOD\Stage\Font\Font\obj\Release\Font.csproj.GenerateResource.Cache
+I:\2TSSIOD\Stage\Font\Font\obj\Release\FontXpress.exe
+I:\2TSSIOD\Stage\Font\Font\obj\Release\FontXpress.pdb
